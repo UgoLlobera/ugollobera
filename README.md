@@ -1,7 +1,7 @@
 <h1 align="center">🎗️ UGO LLOBERA</h1>
 <h3 align="center">▬▬▬▬ JEUNE DÉVELOPPEUR ▬▬▬▬</h3>
 
-<center><p align="left"> <img src="https://komarev.com/ghpvc/?username=ugollobera&label=Profile%20views&color=0e75b6&style=flat" alt="ugollobera" /> </p></center>
+<center><p align="center"> <img src="https://komarev.com/ghpvc/?username=ugollobera&label=Profile%20views&color=0e75b6&style=flat" alt="ugollobera" /> </p></center>
 
 - 〔🪖〕 Actuellement rataché à **l'armée française**
 
